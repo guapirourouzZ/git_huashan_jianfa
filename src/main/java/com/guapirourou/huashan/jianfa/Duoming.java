@@ -5,5 +5,6 @@ public class Duoming {
         System.out.println("夺命三连贱");
         System.out.println("夺命三连贱");
         System.out.println("夺命三连贱");
+        System.out.println("夺命三连贱");
     }
 }
